@@ -1,10 +1,10 @@
-# Estruturas de Dados — Exercícios Acadêmicos
+# Estruturas de Dados — Algoritmos em C
 
-Repositório com exercícios desenvolvidos durante a disciplina de **Estruturas de Dados** do curso de **Análise e Desenvolvimento de Sistemas — IFSul, Campus Gravataí**.
+Repositório com algoritmos desenvolvidos durante a disciplina de **Estruturas de Dados** do curso de **Análise e Desenvolvimento de Sistemas — IFSul, Campus Gravataí**.
 
 Os códigos registram minha evolução em fundamentos de programação e foram desenvolvidos durante atividades acadêmicas utilizando o **Dev-C++**.
 
-> Os exercícios foram originalmente salvos em arquivos `.cpp` e utilizam principalmente conceitos de programação estruturada trabalhados em aula.
+> Os exercícios foram originalmente salvos em arquivos `.cpp` e utilizam principalmente conceitos de programação estruturada em C.
 
 ## Conteúdos praticados
 
